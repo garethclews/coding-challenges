@@ -1,0 +1,47 @@
+#+title: Coding Challenges
+
+Idea from [[https://github.com/CodingChallengesFYI/SharedSolutions][this repo]] but just my versions so that I can do it in haskell without worrying about it being horribly written. I've removed some of them because I'm not interested and others (like Discord bots) I've already done. These are just the ones that I want to do.
+
+
+* Challenges [/]
+
+- [ ] ~wc~
+- [ ] JSON Parser
+- [ ] ~cut~
+- [ ] Sort
+- [ ] Calculator
+- [ ] ~grep~
+- [ ] ~uniq~
+- [ ] URL Shortener
+- [ ] ~diff~
+- [ ] Shell
+- [ ] ~cat~
+- [ ] IRC Client
+- [ ] Memcached Server
+- [ ] Spotify Client
+- [ ] LinkedIn Carousel Generator
+- [ ] ~sed~
+- [ ] Traceroute
+- [ ] Git Client
+- [ ] Rate Limiter
+- [ ] Scheduling Automation App
+- [ ] Lisp Interpreter
+- [ ] Tetris
+- [ ] QR Code Generator
+- [ ] CronTab
+- [ ] ~head~
+- [ ] ~jq~
+- [ ] Pong
+- [ ] ~curl~
+- [ ] HTTP(S) Load Tester
+- [ ] Data Privacy Vault
+- [ ] Password Cracker
+- [ ] Spell Checker using Bloom Filter
+- [ ] Tar
+- [ ] Chess
+- [ ] Snake
+- [ ] Pastebin
+- [ ] Wheel of Names
+- [ ] Space Invaders
+- [ ] HTTP Forward Proxy Server
+- [ ] Sudoku
